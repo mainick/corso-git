@@ -6,3 +6,4 @@ Ingredienti
 - pomodoro
 - basilico
 - sale
+- olio
